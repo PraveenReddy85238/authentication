@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.nav-container {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-items-container {
+  display: flex;
+  flex-direction: row;
+}
+.logout-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 5px 10px;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.website-logo {
+  width: 150px;
+}
+.list-items {
+  list-style-type: none;
+}
+.nav-item {
+  color: #475569;
+  padding-right: 20px;
+  font-family: 'Roboto';
+  border-width: 0px;
+}
